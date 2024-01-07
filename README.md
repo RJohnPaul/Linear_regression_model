@@ -79,7 +79,7 @@ pip install tensorflow numpy
 
 <div align="center">
   <br>
-      <img src="https://github.com/RJohnPaul/SVG-Clock-with-NiceGUI/blob/17fe67997a37c39514287d6d91f6b6641ad1bbe1/Frame%209.png" alt="Project Banner">
+      <img src="https://github.com/RJohnPaul/Linear_regression_model/blob/b522fa2641a3a36642a5a95798a1da90abbb8223/Frame%2012.png" alt="Project Banner">
   </br>
 </div>
 
