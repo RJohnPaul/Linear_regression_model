@@ -3,7 +3,7 @@
 
 <div align="center">
   <br>
-      <img src="https://github.com/RJohnPaul/SVG-Clock-with-NiceGUI/blob/17fe67997a37c39514287d6d91f6b6641ad1bbe1/Frame%209.png" alt="Project Banner">
+      <img src="https://github.com/RJohnPaul/Linear_regression_model/blob/b41c8beedefb75ccb431dce3bb1c2618f67051c6/Frame%2011.png" alt="Project Banner">
   </br>
 </div>
 
