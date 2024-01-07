@@ -1,7 +1,20 @@
 # Simple Linear Regression Neural Network
-My Very First Model Trained
 
-This Python script demonstrates the creation and training of a simple neural network for linear regression using TensorFlow and NumPy.
+
+<div align="center">
+  <br>
+      <img src="https://github.com/RJohnPaul/SVG-Clock-with-NiceGUI/blob/17fe67997a37c39514287d6d91f6b6641ad1bbe1/Frame%209.png" alt="Project Banner">
+  </br>
+</div>
+
+<div align="center">
+  <br>
+      <img src="https://github.com/RJohnPaul/SVG-Clock-with-NiceGUI/blob/17fe67997a37c39514287d6d91f6b6641ad1bbe1/Frame%209.png" alt="Project Banner">
+  </br>
+</div>
+
+
+My Very First Model Trained . This Python script demonstrates the creation and training of a simple neural network for linear regression using TensorFlow and NumPy.
 
 ## Usage
 
@@ -63,4 +76,10 @@ Ensure these modules are installed in your Python environment before running the
 pip install tensorflow numpy
 ```
 
-Feel free to explore the provided links for more information on each module.
+<div align="center">
+  <br>
+      <img src="https://github.com/RJohnPaul/SVG-Clock-with-NiceGUI/blob/17fe67997a37c39514287d6d91f6b6641ad1bbe1/Frame%209.png" alt="Project Banner">
+  </br>
+</div>
+
+---
