@@ -9,7 +9,7 @@
 
 <div align="center">
   <br>
-      <img src="https://github.com/RJohnPaul/SVG-Clock-with-NiceGUI/blob/17fe67997a37c39514287d6d91f6b6641ad1bbe1/Frame%209.png" alt="Project Banner">
+      <img src="https://github.com/RJohnPaul/Linear_regression_model/blob/e25c11aa7a88815fb74a4ff01ad8959eb4ba883a/Frame-5.png" alt="Project Banner">
   </br>
 </div>
 
